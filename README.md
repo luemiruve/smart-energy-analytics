@@ -74,6 +74,7 @@ Dashboard / Analytics
 ## 📁 Estructura del Proyecto
 
 smart-energy-monitoring/
+
 ├── README.md
 ├── src/
 ├── backend/
