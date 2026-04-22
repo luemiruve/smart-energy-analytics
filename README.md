@@ -76,11 +76,17 @@ Dashboard / Analytics
 smart-energy-monitoring/
 
 ├── README.md
+
 ├── src/
+
 ├── backend/
+
 ├── database/
+
 ├── analytics/
+
 ├── docs/
+
 └── architecture/
 
 ---
